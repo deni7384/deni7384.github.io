@@ -1,0 +1,145 @@
+# deni7384.github.io
+my portofolio website
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!-- my css -->
+    <link rel="stylesheet" href="style.css">
+
+
+    <title>bio data deni seiawan</title>
+  </head>
+  <body id="home">
+    <h1>DENI SETIAWAN
+    </h1>
+
+    <!-- navbar  -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-lg fixed-top">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">Deni Setiawan</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#home">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#about">about me</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#work experience">work experience</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#contac me">contac me</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <!--awal jumbotron -->
+      <section class="jumbotron text-center ">
+          <img src="img/WhatsApp Image 2022-06-08 at 09.54.56.jpeg" alt="Deni Setiawan" width="200" class=" img-thumbnail "/>
+        <h1 class="display-4">Deni Setiawan </h1>
+        <p class="lead">FOOD AND BAVERGE ATTENDENT
+        </p>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#ffffff" fill-opacity="1" d="M0,128L48,117.3C96,107,192,85,288,117.3C384,149,480,235,576,272C672,309,768,299,864,261.3C960,224,1056,160,1152,138.7C1248,117,1344,139,1392,149.3L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+      
+      </section>
+      <!-- akhir jumbroton -->
+
+    <!-- about -->
+    <section id="about">
+        <div class="container">
+            <div class="row taxt text-center">
+                <div class="col"> ABOUT ME </div>
+            </div>
+        </div>
+        <div class="row text-center">
+            <p>Hai,
+                Perkenalkan nama saya Deni Setiawan saya adalah anak ke3 dari 3 bersaudara dan sedang mencari pekerjaan dalam dunia FOOD&BEVARGE dengan ilmu yang saya dapat di sekolah maupun pengalaman yang saya dapat ditempat magang atau bekerja profesional bisa membuat pertimbangan ibu/bapak dalam merekrut saya ,saya memahami
+                 dunia F&B servis/prodak dengan pengalaman 6 bulan trainee di Ritz Carlton pp dan pengalaman menjadi F&B atendent di ASTON KARTIKA GROGOL, berkemampuan dasar barista/waiter.
+                
+                Nama             : Deni Setiawan
+                Tinggi badan : 169 cm
+                Berat badan  : 60 kg
+                Alamat           : pondok cabe ilir 3 kota -                         Tangsel rt5/rw4 no 108
+                TtL                    : tangerang 08 oktober                                       -                         2002
+                Status              : belum menikah
+                Agama           : islam
+                Bahasa           : bahasa indonesia.</p>
+        </div>
+    </section>
+
+    <!-- akhir about -->
+    <!-- project -->
+    <section id="work experience">
+      <div class="container">
+        <div class="row text-center">
+          <div class="col">
+            <h2>work experience</h2>
+          </div>
+        </div>
+        <div class="row">
+           <div class="col">
+            <div class="card" ">
+              <img src="img/319064263.jpg" class="card-img-top" alt="project1">
+              <div class="card-body">
+                <p class="card-text-center ">THE RITZ CARLTON JAKARTA PACIFIC PLACE,
+                  pada oktober 2019 samapi april 2020 saya mengikuti trainee intrenship dihotel Ritz carlton JAKARTA
+                  yaitu dibagian culinary restaurant dengan 3 bulan dicold kitchen dan 3bulan dihot kitchen.
+                </p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card" ">
+                <img src="img/pic-wedding-3.jpg" class="card-img-top" alt="project2">
+                <div class="card-body">
+                  <p class="card-text">GH UNIVERSAL HOTEL BANDUNG,Merupakan tempat program study dari SMKN7 TANGSEL untuk menanbah wawasan dalam servis sequence,dan pengenalan depatemen apa saja yang ada dalam hotel,dan dengan puncak acaranya yaitu mempresntasikan the great tabble manneer dengan cara dan methode dari berbagai negara,
+                  </p>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card pb-5" ">
+                  <img src="img/maxresdefault.jpg" class="card-img-top" alt="project3">
+                  <div class="card-body">
+                    <p class="card-text">ASTON KARTIKA GROGOL, hotel ini merupakan jalan pertama saya dalam bekerja profesional dibagian F&B SERVIS, dalam 6 bulan lamanya saya disana
+                      banyak hal yang saya pelajari mulai dari komunikasi,skills,servis restauran,servis banquet,cashier,dan barista.
+                    </p>
+                  </div>
+                </div>
+           </div>
+        </div>
+      </div>
+    </section>
+    <!-- akhir project -->
+  
+    <!-- contac me -->
+    <section id="contac me">
+      <div class="container ">
+          <div class="row taxt text-center">
+              <div class="col"> CONTAC ME </div>
+          </div>
+      </div>
+      <div class="row text-center">
+          <p> HP +62-858-0837-4058, MAIL= deni8739@gmail.com, </p>
+      </div>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0d6efd" fill-opacity="1" d="M0,32L48,69.3C96,107,192,181,288,181.3C384,181,480,107,576,69.3C672,32,768,32,864,53.3C960,75,1056,117,1152,117.3C1248,117,1344,75,1392,53.3L1440,32L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+  </section>
+
+    <!-- akhir contac me -->
+<!-- footer -->
+<footer class="bg-primary text-white text-center pb-5">
+  <p>created with love <a href="https://www.instagram.com/denisetiawan.id/"class="text-white fw-bold">deni setiawan </a></p>
+</footer>
+  </body>
+</html>
+                                                                                                     
